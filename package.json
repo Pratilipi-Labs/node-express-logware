@@ -1,0 +1,23 @@
+{
+  "name": "node-express-logware",
+  "version": "1.0.0",
+  "description": "Request logging middleware for node and express web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratilipi-Labs/node-express-logware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pratilipi-Labs/node-express-logware/issues"
+  },
+  "homepage": "https://github.com/Pratilipi-Labs/node-express-logware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
