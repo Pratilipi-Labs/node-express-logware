@@ -1,17 +1,17 @@
-# node-express-logware
+# node-logware
 ## Request Logger  
 Request logging middleware for python web services. Use this library to log the requests hitting the web service. It is advised to use **Request-Id** in request headers to trace the spread of requests in microservice environment.  
 
-**Package library:** [logware]()  
-**Stable Version:** 0.1.1  
+**Package library:** [logware](https://www.npmjs.com/package/node-logware)  
+**Stable Version:** 1.0.1  
 
 ## How to install?
-run `npm install logware`
+run `npm i node-logware`
 
 ## How to use?
 ```
 const express = require('express')
-const RequestLogger = require('logware')
+const RequestLogger = require('node-logware')
 const app = express()
 const port = 3000
 
