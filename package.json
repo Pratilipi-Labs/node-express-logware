@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/Pratilipi-Labs/node-express-logware#readme",
   "dependencies": {
-    "express": "^4.17.1"
   }
 }

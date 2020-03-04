@@ -3,7 +3,7 @@
 Request logging middleware for node web services. Use this library to log the requests hitting the web service. It is advised to use **Request-Id** in request headers to trace the spread of requests in microservice environment.  
 
 **Package library:** [logware](https://www.npmjs.com/package/node-logware)  
-**Stable Version:** 1.0.2  
+**Stable Version:** 1.0.3  
 
 ## How to install?
 run `npm i node-logware`
