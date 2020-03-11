@@ -6,7 +6,7 @@ let config = {};
  * @param {Object} [logger=console] Any custom logger instance used in the codebase, by default `console` will be used
  * @param {String} [serviceName] Default value will be picked up from the `name` key `package.json`
  */
-function RequestLogger(level, logger, serviceName) {
+function RequestLogger(level, serviceName, logger) {
   config.level = (level || 'INFO').toLowerCase();
   config.serviceName = serviceName || require.main.require('./package').name;
   config.logger = logger || console;
