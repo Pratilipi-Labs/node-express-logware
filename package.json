@@ -1,6 +1,6 @@
 {
   "name": "node-express-logware",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Request logging middleware for node and express web application.",
   "main": "index.js",
   "scripts": {
