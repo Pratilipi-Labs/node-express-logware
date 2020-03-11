@@ -1,5 +1,5 @@
 {
-  "name": "node-express-logware",
+  "name": "node-logware",
   "version": "1.0.4",
   "description": "Request logging middleware for node and express web application.",
   "main": "index.js",
